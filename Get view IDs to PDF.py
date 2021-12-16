@@ -7,7 +7,7 @@ server_name = "https://10ax.online.tableau.com/"
 user_name = "NYTableauDev@gmail.com"
 password = "NDJNeSf5zLNt"  # getpass.getpass() #use getpass() method in production
 # An empty string can used to specify the default site.
-site_url_id = "nikuldev423951"
+site_url_id = "mysitedev384565"#"nikuldev423951"
 projectName = "Finance"
 # WorkbookName = "Superstore" #uncomment this and provide a specific workbook name to narrow down the list
 
